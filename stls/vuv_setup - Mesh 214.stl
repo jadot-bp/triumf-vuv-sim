@@ -1,0 +1,30 @@
+solid Onshape
+  facet normal 0.113934 0.555862 -0.82343
+    outer loop
+      vertex 19.5061 -2.3538 16.7332
+      vertex 19.5067 -2.34521 16.7391
+      vertex 19.51 -2.35988 16.7297
+    endloop
+  endfacet
+  facet normal 0.327414 0.562516 -0.759194
+    outer loop
+      vertex 19.5067 -2.34521 16.7391
+      vertex 19.511 -2.35996 16.7301
+      vertex 19.51 -2.35988 16.7297
+    endloop
+  endfacet
+  facet normal -0.158768 -0.550232 0.819779
+    outer loop
+      vertex 19.5067 -2.34521 16.7391
+      vertex 19.5061 -2.3538 16.7332
+      vertex 19.511 -2.35996 16.7301
+    endloop
+  endfacet
+  facet normal -0.31589 -0.622418 0.716107
+    outer loop
+      vertex 19.5061 -2.3538 16.7332
+      vertex 19.51 -2.35988 16.7297
+      vertex 19.511 -2.35996 16.7301
+    endloop
+  endfacet
+endsolid Onshape

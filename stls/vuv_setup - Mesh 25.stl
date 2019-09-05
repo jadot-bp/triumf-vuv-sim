@@ -1,0 +1,16 @@
+solid Onshape
+  facet normal 0 -1 0
+    outer loop
+      vertex 19.1333 -23.9576 6.05575
+      vertex 18.8981 -23.9576 6.39044
+      vertex 18.8286 -23.9576 6.34156
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+      vertex 18.8286 -23.9576 6.34156
+      vertex 19.0638 -23.9576 6.00688
+      vertex 19.1333 -23.9576 6.05575
+    endloop
+  endfacet
+endsolid Onshape

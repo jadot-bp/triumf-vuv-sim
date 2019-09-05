@@ -1,0 +1,44 @@
+solid Onshape
+  facet normal 0 1 0
+    outer loop
+      vertex 21.4706 -28.291 14.4522
+      vertex 21.3876 -28.291 14.4299
+      vertex 21.317 -28.291 14.7719
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+      vertex 21.317 -28.291 14.7719
+      vertex 22.1975 -28.291 14.2375
+      vertex 21.5536 -28.291 14.4299
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+      vertex 22.1975 -28.291 14.2375
+      vertex 21.6144 -28.291 14.3692
+      vertex 21.5536 -28.291 14.4299
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+      vertex 22.1975 -28.291 14.2375
+      vertex 21.6144 -28.291 14.2032
+      vertex 21.6366 -28.291 14.2862
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+      vertex 21.6366 -28.291 14.2862
+      vertex 21.6144 -28.291 14.3692
+      vertex 22.1975 -28.291 14.2375
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+      vertex 21.5536 -28.291 14.4299
+      vertex 21.4706 -28.291 14.4522
+      vertex 21.317 -28.291 14.7719
+    endloop
+  endfacet
+endsolid Onshape
