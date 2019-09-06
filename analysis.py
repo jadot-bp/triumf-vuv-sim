@@ -131,9 +131,7 @@ def main(suppress=False):
         detectedx -= meanx #Centering plot about detected photons
         detectedy -= meany
       
-        sampleset = np.sqrt(detectedx**2 + detectedy**2)    
-
-    
+        sampleset = np.sqrt(detectedx**2 + detectedy**2) #Heatmap info        
         binwidth = 2*ss.iqr(sampleset)/np.cbrt(len(sampleset)) #Freedman-Diaconis rule
         bins = (max(sampleset)-min(sampleset))/binwidth
         heatmap,xedges,yedges = np.histogram2d(detectedx,detectedy,bins=bins)
